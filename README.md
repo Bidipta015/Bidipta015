@@ -138,10 +138,16 @@ current_focus: Building secure, high-performance data infrastructure at scale
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-![Bidipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bidipta015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bidipta015&layout=compact&theme=tokyonight&hide_border=true)
+| 💻 **Technology Focus** | 📈 **Current Activity** |
+|:---:|:---:|
+| Python, JavaScript, SQL | Building Data Pipelines |
+| AWS, Azure, Snowflake | Cloud Architecture |
+| Cypress, Playwright | Quality Engineering |
+
+---
+
+**🔥 Active in:** Data Engineering • Test Automation • Cloud Solutions • FinTech Innovation
 
 </div>
 
