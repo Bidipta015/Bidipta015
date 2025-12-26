@@ -63,6 +63,19 @@ Currently leading the complete digital transformation of **TheLeadingYounth.com*
 
 ---
 
+## 📜 Recent Certifications (2025)
+
+<div align="center">
+
+![Astronomer](https://img.shields.io/badge/Astronomer-Airflow_3_DAG_Authoring-4B32C3?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow_3-Fundamentals-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Data_Science_Orientation-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Dive_into_Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### Cloud & Data Engineering
@@ -123,33 +136,56 @@ Currently leading the complete digital transformation of **TheLeadingYounth.com*
 
 ## 📈 Skills Proficiency
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### Data Engineering & Cloud Architecture
-![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
-**AWS, Azure, Snowflake, Python, SQL** - Production-grade implementations at scale
+![95%](https://progress-bar.dev/95?title=Proficiency&width=400&color=00bb00)
 
-### Quality Architecture & Test Automation
-![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600)
-**Cypress, Playwright, Selenium, BDD/TDD** - Enterprise test automation frameworks
+**AWS, Azure, Snowflake, Python, SQL**  
+Production-grade implementations at scale
+
+</td>
+<td width="50%">
+
+### Quality Architecture & Test Automation  
+![90%](https://progress-bar.dev/90?title=Proficiency&width=400&color=00bb00)
+
+**Cypress, Playwright, Selenium, BDD/TDD**  
+Enterprise test automation frameworks
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### FinTech Domain Expertise
-![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
-**Credit Risk, Payments, FCA Compliance** - 11+ years UK financial services
+![95%](https://progress-bar.dev/95?title=Proficiency&width=400&color=00bb00)
+
+**Credit Risk, Payments, FCA Compliance**  
+11+ years UK financial services
+
+</td>
+<td width="50%">
 
 ### DevOps & Cloud Architecture
-![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600)
-**CI/CD, Docker, Kubernetes, Infrastructure as Code** - Modern cloud-native solutions
+![85%](https://progress-bar.dev/85?title=Proficiency&width=400&color=00bb00)
 
-</div>
+**CI/CD, Docker, Kubernetes, IaC**  
+Modern cloud-native solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 TheLeadingYounth.com - Digital Platform Transformation
+### 🚀 Current Role: TheLeadingYounth.com - Digital Platform Transformation
 **Technical Lead & Full-Stack Engineer**  
-*December 2025 - Present | London, UK*
+*December 2025 - Present | London, UK | Full-Time*
 
 Leading the complete architectural redesign and development of a social enterprise platform, applying enterprise-grade engineering practices to create scalable, cloud-native solutions with measurable business impact.
 
@@ -164,7 +200,21 @@ Leading the complete architectural redesign and development of a social enterpri
 - 🧠 Implemented NLP-powered content categorization reducing manual effort by **80%**
 - 💡 Created data visualization tools for stakeholder insights and decision-making
 
+<div align="center">
+
+| 🎯 **Key Metric** | 📊 **Result** | 💡 **Impact** |
+|:---|:---:|:---|
+| Platform Performance | ⚡ 3x Faster | Improved user experience & retention |
+| User Engagement | 📈 35% Increase | Real-time analytics & personalization |
+| Manual Operations | 🤖 80% Reduction | NLP-powered automation |
+| Code Quality | ✅ 100% Test Coverage | Automated testing frameworks |
+| Deployment Speed | 🚀 90% Faster | CI/CD pipeline automation |
+
 **Technology Stack:** JavaScript, Python, Vibe Code, n8n, NLP Models, Cloud Infrastructure, DevOps
+
+🌐 **Live Platform:** [TheLeadingYounth.com](https://theleadingyounth.com/)
+
+</div>
 
 ---
 
@@ -213,32 +263,26 @@ Delivered PCI DSS compliance and improved regression coverage by **70%** through
 
 ---
 
-## 🌟 Current Featured Project
-
-### 🚀 [TheLeadingYounth.com](https://theleadingyounth.com/) - Full Digital Platform Redesign
-
-**Role:** Technical Lead & Full-Stack Engineer | **Status:** Active Development (Full-Time)
-
-Complete architectural rebuild of a social enterprise platform, combining cloud-first thinking with automation, analytics, and modern engineering practices. Leading all aspects of technical delivery from architecture to deployment.
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
 
-| 🎯 **Key Metric** | 📊 **Result** | 💡 **Impact** |
-|:---|:---:|:---|
-| Platform Performance | ⚡ 3x Faster | Improved user experience & retention |
-| User Engagement | 📈 35% Increase | Real-time analytics & personalization |
-| Manual Operations | 🤖 80% Reduction | NLP-powered automation |
-| Code Quality | ✅ 100% Test Coverage | Automated testing frameworks |
-| Deployment Speed | 🚀 90% Faster | CI/CD pipeline automation |
+<a href="https://github.com/Bidipta015">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bidipta015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bidipta015&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
 </div>
 
-**Technical Highlights:**
-- **Architecture:** Cloud-native design with microservices patterns
-- **Automation:** Intelligent workflows with n8n and custom JavaScript solutions
-- **Analytics:** Real-time dashboards with Python, JavaScript, and NLP models
-- **Quality:** Comprehensive test automation ensuring 99.9% uptime
-- **DevOps:** Automated CI/CD with containerization and orchestration
+<div align="center">
+
+| 💻 **Primary Technologies** | 🎯 **Current Focus** | 🌱 **Exploring** |
+|:---:|:---:|:---:|
+| Python • JavaScript • SQL | Full-Stack Platform Engineering | Advanced ML/AI Integration |
+| AWS • Azure • Snowflake | Cloud-Native Architecture | Real-Time Analytics at Scale |
+| Cypress • Playwright | Quality Engineering | DataOps & MLOps Practices |
+
+</div>
 
 ---
 
@@ -321,9 +365,7 @@ Best practices for building resilient, compliant FinTech solutions that withstan
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🎓 Academic Credentials
+## 🎓 Education
 
 <div align="center">
 
@@ -332,40 +374,6 @@ JNTU, Hyderabad | 2013
 
 **📚 Bachelor of Computer Applications (BCA)**  
 WBUT, West Bengal | 2010
-
-</div>
-
-### 📜 Recent Certifications (2025)
-
-<div align="center">
-
-✅ **Astronomer: DAG Authoring for Apache Airflow 3**  
-✅ **Apache Airflow 3 Fundamentals**  
-✅ **Data Science Orientation** - Coursera  
-✅ **Dive into Data Science** - IBM
-
-</div>
-
----
-
-## 📊 GitHub Activity & Contributions
-
-<div align="center">
-
-<a href="https://github.com/Bidipta015">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bidipta015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bidipta015&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-| 💻 **Primary Technologies** | 🎯 **Current Focus** | 🌱 **Exploring** |
-|:---:|:---:|:---:|
-| Python • JavaScript • SQL | Full-Stack Platform Engineering | Advanced ML/AI Integration |
-| AWS • Azure • Snowflake | Cloud-Native Architecture | Real-Time Analytics at Scale |
-| Cypress • Playwright | Quality Engineering | DataOps & MLOps Practices |
 
 </div>
 
