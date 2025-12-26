@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 🚀 Currently: Technical Lead @ TheLeadingYounth.com
+## 🚀 Currently: Acting CTO @ TheLeadingYounth.com
 
 **Building cloud-native platforms | Full-time role | December 2025 - Present**
 
