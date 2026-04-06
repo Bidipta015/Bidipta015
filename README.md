@@ -1,5 +1,5 @@
 <h1 align="center">Bidipta Datta</h1>
-<p align="center">Technical Project Manager &bull; Payments &amp; FinTech &bull; UK &amp; Europe</p>
+<p align="center">Technical Project Manager &bull; Payments &amp; FinTech &bull; UK &amp; Europe &amp; India</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bidipta-d-a729a289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
