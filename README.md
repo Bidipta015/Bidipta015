@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=250&section=header&text=Bidipta%20Datta&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Technical%20Project%20Manager%20%E2%80%A2%20Payments%20%26%20FinTech%20%E2%80%A2%20UK%20%26%20Europe&descAlignY=55&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=250&section=header&text=Bidipta%20Datta&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Technical%20Project%20Manager%20%7C%20Payments%20%26%20FinTech%20%7C%20UK%20%26%20Europe&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bidipta-d-a729a289/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.datta0601@gmail.com)
@@ -188,4 +188,4 @@ Building at the intersection of **payments domain expertise**, **AI/ML**, and **
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=100&section=footer" alt="Footer" width="100%"/>
